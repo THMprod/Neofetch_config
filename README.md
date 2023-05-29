@@ -27,7 +27,7 @@ Pour un aperçu de ce que ça donne :
 
 Pour que Neofetch s'affiche automatiquement dans le terminal lors de son ouverture il faut rajouter la ligne :
 
-neofetch
+`neofetch`
 
 dans le fichier :
 
