@@ -1,16 +1,17 @@
 # Neofetch_config
 Ma configuration de Neofetch
 
-Ces fichiers sont à placé dans :
-~/.config/neofetch
+Ces fichiers sont à placer dans :
 
-Pour l'affichage de l'image il faut installer le paquet kitty
+`~/.config/neofetch`
 
-sur Arch :
+Pour l'affichage de l'image il faut installer le paquet kitty.
+
+La commande pour Arch :
 
 `pacman -Syu kitty`
 
-Pour que les icones fonctionnes, je vous invite à télécharger "Firacode Nerd Font"
+Pour que les icones fonctionnent, je vous invite à télécharger "Firacode Nerd Font"
 
 https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/FiraCode.zip
 
