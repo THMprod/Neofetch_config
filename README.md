@@ -33,3 +33,11 @@ Pour que Neofetch s'affiche automatiquement dans le terminal lors de son ouvertu
 dans le fichier :
 
 `~/.bashrc`
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Si vous vouler un effet ASCII je vous invite à télécharger l'utilitaire 
+
+`libcaca` 
+
+et dans le fichier de configuration de Neofetch vous remplacer "kitty" par "caca" à la ligne `image_backend="caca"` 
