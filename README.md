@@ -41,3 +41,8 @@ Si vous vouler un effet ASCII je vous invite à télécharger l'utilitaire
 `libcaca` 
 
 et dans le fichier de configuration de Neofetch vous remplacer "kitty" par "caca" à la ligne `image_backend="caca"` 
+
+Pour une idée du rendu
+
+![image](https://github.com/THMprod/Neofetch_config/assets/82099500/864f8d25-1198-411f-b968-526a33e7e16e)
+
