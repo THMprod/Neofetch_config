@@ -21,7 +21,7 @@ et l'installer dans le dossier :
 
 Si le dossier n'existe pas créer le avec la commande suivant :
 
-`mkdir ~/.local/share/fonts`
+`mkdir ~/.local/share/fonts` ou `~/.fonts` selon votre concenance.
 
 Pour un aperçu de ce que ça donne :
 ![Screenshot_20230530_002027](https://github.com/THMprod/Neofetch_config/assets/82099500/b681280c-212e-4e56-b478-585a5af73393)
