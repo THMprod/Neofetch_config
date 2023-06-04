@@ -5,7 +5,7 @@ Ces fichiers sont à placer dans :
 
 `~/.config/neofetch`
 
-Pour l'affichage de l'image il faut installer le paquet kitty.
+Pour l'affichage de l'image il faut installer le paquet `kitty` et `imagemagick`.
 
 La commande pour Arch :
 
