@@ -15,6 +15,8 @@ Pour que les icones fonctionnent, je vous invite à télécharger "Firacode Nerd
 
 https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/FiraCode.zip
 
+sinon il y a le paquet `ttf-nerd-fonts-symbols` dans le dépot Extra de Arch.
+
 et l'installer dans le dossier :
 
 `~/.local/share/fonts`
