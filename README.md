@@ -9,7 +9,7 @@ Pour l'affichage de l'image il faut installer le paquet `kitty` et `imagemagick`
 
 La commande pour Arch :
 
-`pacman -Syu kitty`
+`pacman -Syu kitty imagemagick`
 
 Pour que les icones fonctionnent, je vous invite à télécharger "Firacode Nerd Font"
 
